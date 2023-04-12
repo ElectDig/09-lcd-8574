@@ -34,6 +34,10 @@
 
 ###  Links
 
+ This is the first project using i2c communication; as such, it is very important to read following link;
+
+ [ESP32 I2C Communication: Set Pins, Multiple Bus Interfaces and Peripherals](https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/)
+
  [Interfacing I2C LCD with ESP32](https://www.electronicshub.org/esp32-i2c-lcd/)
 
 ### Videos
