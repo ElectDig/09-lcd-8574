@@ -32,6 +32,10 @@
     After splash screen, verify that display shows digital conversion of potentiometer value
     and converted voltage as potentiometer is rotates
 
+### Photos
+
+ ![2x16 LCD + potentiometer](lcd-pote.jpg)
+
 ###  Links
 
  This is the first project using i2c communication; as such, it is very important to read following link;
